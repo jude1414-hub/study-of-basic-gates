@@ -1,6 +1,8 @@
 ### study-of-basic-gates
 NAME : Jude Clement Jose G
+
 REGISTER NUMBER : 212224230109
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
