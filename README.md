@@ -1,5 +1,6 @@
 ### study-of-basic-gates
-
+NAME : Jude Clement Jose G
+REGISTER NUMBER : 212224230109
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -63,17 +64,19 @@ Y= A⊕B
 
 
 **PROGRAM**
+![Screenshot 2025-03-10 135950](https://github.com/user-attachments/assets/b3969193-7e4a-4939-97df-0b12c14553c3)
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+![Screenshot 2025-03-10 135837](https://github.com/user-attachments/assets/68d347ef-ac08-41ac-bfa4-6514b51b6f2a)
 
 **RTL realization Output:** 
 
 **RTL**
+![Screenshot 2025-03-10 134458](https://github.com/user-attachments/assets/78eba132-e0e6-4489-af12-61f45c258715)
 
 **Result:**
-
-
+Studied and verified the truth table of logic gates in Quartus II using Verilog programming successfully
