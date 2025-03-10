@@ -1,5 +1,5 @@
 ### study-of-basic-gates
-NAME : Jude Clement Jose G\n
+NAME : Jude Clement Jose G
 REGISTER NUMBER : 212224230109
 **AIM:** 
 
